@@ -7,16 +7,16 @@ ini_set('log_errors', 1);
 // Configuration - Edit these values with your actual credentials
 $config = [
     'pathao' => [
-        'user' => 'ibnasinha125@gmail.com',        // Replace with your Pathao email
-        'password' => 'password',             // Replace with your Pathao password
+        'user' => 'youremail@example.com',        // Replace with your Pathao email
+        'password' => 'yourPassword',             // Replace with your Pathao password
     ],
     'redx' => [
-        'phone' => '01764553090',                         // Replace with your RedX phone
-        'password' => 'password',               // Replace with your RedX password
+        'phone' => '01676565090',                         // Replace with your RedX phone
+        'password' => 'yourPassword',               // Replace with your RedX password
     ],
     'steadfast' => [
-        'user' => 'ibnasinha125@gmail.com',     // Replace with your Steadfast email
-        'password' => 'password',          // Replace with your Steadfast password
+        'user' => 'youremail@example.com',     // Replace with your Steadfast email
+        'password' => 'yourPassword',          // Replace with your Steadfast password
     ],
 ];
 
